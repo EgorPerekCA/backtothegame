@@ -1,4 +1,4 @@
 a= int(input())
 b=int(input())
-z=a*b
+z=a+b
 print(z)
